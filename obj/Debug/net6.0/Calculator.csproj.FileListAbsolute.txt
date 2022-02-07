@@ -1,0 +1,15 @@
+D:\Documentos\Cursos\CsharpBackend\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\Documentos\Cursos\CsharpBackend\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\Documentos\Cursos\CsharpBackend\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Documentos\Cursos\CsharpBackend\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\Documentos\Cursos\CsharpBackend\Calculator\bin\Debug\net6.0\ref\Calculator.dll
+D:\Documentos\Cursos\CsharpBackend\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\Documentos\Cursos\CsharpBackend\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Documentos\Cursos\CsharpBackend\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Cursos\CsharpBackend\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Documentos\Cursos\CsharpBackend\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Documentos\Cursos\CsharpBackend\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\CsharpBackend\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\Documentos\Cursos\CsharpBackend\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+D:\Documentos\Cursos\CsharpBackend\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\Documentos\Cursos\CsharpBackend\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache

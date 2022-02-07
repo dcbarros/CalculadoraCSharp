@@ -10,9 +10,9 @@ namespace Calculator
     {
         public static void Main(string[] args)
         {
-            bool valChange = true;
+            
 
-            while (valChange)
+            while (true)
             {
                 Console.Clear();
                 System.Console.WriteLine("Coloque o primeiro valor: ");
@@ -47,7 +47,7 @@ namespace Calculator
                     case 5:{
                         Console.Clear();
                         System.Console.WriteLine("Obrigado!");
-                        valChange = false;
+                        System.Environment.Exit(0);
                         break;
                     }
                     default:
